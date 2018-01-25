@@ -9,4 +9,5 @@ A programmer who has only known the bumper-bowling of garbage collected language
 
 ## Resources
 - [history-of-graphics-programming](http://www.benlipson.io/blog/graphicshistory)
+- [renderdoc](https://github.com/baldurk/renderdoc)
 - **TODO**: add primary sources
